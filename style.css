@@ -1,0 +1,194 @@
+body {
+  Font size: 14px
+  margin-top: 0px;
+  margin: 0px;
+}
+.main-page {
+  width: 1440px;
+  background-color: hsl(229, 57%, 11%);
+  padding-top: 250px;
+}
+
+p {
+  font-family:'raleway',sans-serif;
+  font-Weight: 400, 700;
+  color:cornsilk;
+  font-size: 14px;
+}
+
+span{
+  color: white;
+}
+
+
+
+
+.dialogue-box {
+  background-color: hsl(228, 56%, 26%);
+  width: 450px;
+  height: 125px;
+  border-radius: 5px;
+  position: absolute;
+  top: 220px;
+  right: 150px;
+}
+
+.first{
+  position: relative;
+  top: 20px;
+  left: 30px;
+}
+
+.second{
+  font-family:'raleway',sans-serif;
+  
+font-weight: bolder;
+  color: black;
+  font-size: 30px;
+  position: relative;
+  bottom: 130px;
+  left:290px;
+
+
+
+}
+
+
+.last{
+  font-family:'raleway',sans-serif;
+  font-Weight: 400, 700;
+  color: black;
+  font-size: 14px;
+  position: relative;
+  bottom: 120px;
+  left:300px;
+
+}
+
+.third{
+position: relative;
+top: 40px;
+  left: 30px;
+}
+
+.fourth{
+  position: relative;
+
+float: right;
+}
+
+.box{
+  background-color: hsl(228, 56%, 26%);
+  width: 300px;
+  height: 150px;
+  border-radius: 5px 70px 5px 5px;
+  position: absolute;
+  top:195px;
+  left: 350px;
+
+}
+
+.document{
+  background-color:hsl(229, 57%, 11%);;
+  width: 25px;
+  height: 25px;
+  padding: 8px 0px 2px 8px;
+  border-radius: 5px;
+  position: relative;
+  left: 30px;
+  top:90px ;
+}
+
+
+.folder{
+  background-color:hsl(229, 57%, 11%);;
+  width: 25px;
+  height: 25px;
+  padding: 8px 0px 2px 8px;
+  border-radius: 5px;
+  position: relative;
+  left: 80px;
+  top:55px ;
+}
+
+.upload{
+  background-color:hsl(229, 57%, 11%);;
+  width: 25px;
+  height: 25px;
+  padding: 8px 0px 2px 8px;
+  border-radius: 5px;
+  position: relative;
+  left: 130px;
+  top:20px ;
+}
+
+.logo{
+  width: 100px;
+  position: absolute;
+  bottom: 60px;
+
+}
+
+.radius{
+  width: 380px;
+  height: 20px;
+  background-color:hsl(229, 57%, 11%);;
+  position:absolute;
+top: 57px;
+  left: 35px;
+  border-radius: 20px;
+
+}
+
+.radius-div{
+  width: 280px;
+  height: 15px;
+  background-image:linear-gradient(to right,hsl(6, 100%, 80%),hsl(335, 100%, 65%)) ;
+  position: relative;
+  top: 2.5px;
+  left: 2px;
+
+  border-radius:30px;
+}
+
+
+.ball{
+  background-color:white;
+  width:13px;
+  height:13px;
+  border-radius:60px;
+  position: relative;
+  left: 265px;
+  top: 1px;
+}
+
+.message{
+  position:absolute;
+ 
+
+}
+
+.rectangle{
+  
+  position: relative;
+  bottom:80px;
+  left: 265px;
+  height: 10px;
+  width: 100px;
+  background-color: white;
+	border-top: 25px solid transparent;
+	border-right: 50px solid white;
+  border-bottom: 25px solid transparent;
+  border-radius:5px 5px 0px 5px;
+}
+
+.triangle{
+  position: absolute;
+  bottom:90px;
+  left:365px ;
+  width: 0;
+	height: 0;
+	border-top: 25px solid transparent;
+	border-right: 50px solid white;
+	border-bottom: 25px solid transparent;
+}
